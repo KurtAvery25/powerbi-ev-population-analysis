@@ -19,10 +19,10 @@ This project analyzes Electric Vehicle (EV) adoption trends, including total veh
 - Filtered the dataset to focus on Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV).  
 
 ### **2. Data Analysis**  
-- **EV Growth Over Time:** The data shows a steady increase in EV adoption, peaking in **2022 with 37K vehicles**, followed by a sharp decline. Possible reasons include supply chain issues or policy shifts.
+- **EV Growth Over Time:** The data shows a steady increase in EV adoption, peaking in **2023 with 37K vehicles**, followed by a sharp decline. Possible reasons include supply chain issues or policy shifts.
 - **Market Share by Manufacturer:** Tesla dominates the EV market with **69K vehicles**, significantly ahead of Nissan (**13K**) and Chevrolet (**12K**). 
 - **BEV vs. PHEV Distribution:** BEVs account for **78%** of total EVs, showing a clear consumer preference for full-electric vehicles over hybrids.
-- **CAFV Eligibility:** A substantial **46.33% (69.7K vehicles)** qualify for clean alternative fuel incentives, highlighting the role of government programs in EV adoption.
+- **CAFV Eligibility:** A substantial **41.81% (62.89K vehicles)** qualify for clean alternative fuel incentives, highlighting the role of government programs in EV adoption.
 
 ### **3. Data Visualization & Interpretation**  
 The dashboard below presents key EV adoption insights, including growth trends, market share, geographic distribution, and eligibility for clean energy incentives.
@@ -32,7 +32,7 @@ The dashboard below presents key EV adoption insights, including growth trends, 
 ## **Findings**  
 - The EV market has seen rapid growth, with **Tesla leading in both brand and model adoption**.
 - BEVs are the preferred choice over PHEVs, making up **78% of the total EVs**.
-- A sudden decline in EV registrations post-2022 needs further investigation.
+- A sudden decline in EV registrations post-2024 needs further investigation.
 - **CAFV incentives play a crucial role**, with nearly **half of the vehicles qualifying**.
 
 ## **Conclusion**  
